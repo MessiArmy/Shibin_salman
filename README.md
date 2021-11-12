@@ -34,11 +34,11 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 ----
 
 <p align="center">
-↪️ 𝐃𝐄𝐏𝐋𝐎𝐘 𝐕𝐈𝐃𝐄𝐎 ↩️
+↪️ OUR CHANNEL ↩️
 </p>
 
-<a href="https://youtu.be/NrbMc93aCzA"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/NrbMc93aCzA"><img src="https://img.shields.io/youtube/views/NrbMc93aCzA?style=social"></a>
+<a href="https://t.me/FM_NEW_MOVIES"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
+<a href="https://t.me/FM_Update"><img src="https://img.shields.io/youtube/views/NrbMc93aCzA?style=social"></a>
 
 ----
 
@@ -81,7 +81,7 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 </p>
 
 <p align="center">
-<a href="https://youtu.be/NrbMc93aCzA"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://t.me/CV_Cinima_World"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 </p>
 
 ----
@@ -95,7 +95,7 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 - `BOT_TOKEN` : from [click here](https://youtu.be/cB4UduCcNWs)
 - `BOT_USERNAME` : from [click here](https://youtu.be/cB4UduCcNWs)
 - `CUSTOM_CAPTION` : File Caption
-- `DATABASE_URI` : from [Mongodb](https://youtu.be/gBLTsH-IXr0)
+- `DATABASE_URI` : from [Mongodb](https://t.me/CV_Cinima_World)
 - `DEV_ID` : from [click here](https://Telegram.dog/MT_ID_Bot)
 - `DEV_NAME` : from [click here](https://Telegram.dog/MT_ID_Bot)
 - `DEV_USERNAME` : from [click here](https://Telegram.dog/MT_ID_Bot)
